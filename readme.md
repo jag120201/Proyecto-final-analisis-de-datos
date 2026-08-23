@@ -127,12 +127,6 @@ Incluye filtros interactivos por **Año**, **Mes** y **País**.
 
 ---
 
-## 📄 Informe completo
-
-El informe detallado del análisis se encuentra en [`reports/informe_analisis.md`](reports/informe_analisis.md).
-
----
-
 ## ✍️ Autor
 
 **José Antonio Gálvez Beneroso**
