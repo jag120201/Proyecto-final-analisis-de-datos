@@ -70,8 +70,6 @@ proyecto-final-data-analytics/
 ├── dashboard/                   # Dashboard de Power BI
 │   └── dashboard_retail.pbix
 │
-├── reports/                     # Informe del análisis
-│   └── informe_analisis.md
 │
 └── README.md
 ```
